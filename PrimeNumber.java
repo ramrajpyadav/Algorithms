@@ -14,11 +14,6 @@ public class PrimeNumber {
 		
 		x=43;
 		System.out.println(x+" isPrime: "+isPrime(x));
-		
-		String xx=Integer.toString(x);
-		System.out.println(xx+"hey there");
-		System.out.println(Math.PI);
-		System.out.printf("%.2f", Math.PI);
 	}
 
 }
