@@ -1,2 +1,2 @@
 # Algorithms
-Machine Learning Concepts 
+Binary Search Algorithm
